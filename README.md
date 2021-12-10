@@ -24,7 +24,7 @@
 - Performed One hot encoding to represent the categorical values in binary form since machine learning algorithms cannot operate on label data directly.
 -  I also split the data into train and tests sets with a test size of 20%.
 Model Used:- 
-1. Multiple Linear Regression - r^2 value of **0.86**
+1. Multiple Linear Regression - Accuracy of **0.86**
 ---
 ## Prediction:
 Built a function to predict the house price with location, number of Square foot area, Bathroom, and BHK.
