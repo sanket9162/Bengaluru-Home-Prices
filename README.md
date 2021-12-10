@@ -1,4 +1,4 @@
-# Bangalore-house's-rate
+# Bengaluru-house's-rate
 
 - This notebook is for people who are looking to buy a place in Bengaluru city(INDIA)
 - Created a model that predicts Bengaluru house rate to help people to know about the prices of house in various places without the need of contacting different agents for the same. 
